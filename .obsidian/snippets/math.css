@@ -1,0 +1,16 @@
+.markdown-preview-view .callout[data-callout="box"] {
+  background-color: #323232;
+  border-left: 4px solid #000000;
+  padding: 8px;
+  border-radius: 6px;
+}
+
+.markdown-preview-view .callout[data-callout="box"] > .callout-title {
+  background-color: #232323;
+  font-weight: bold;
+  color: #aaaaaa;
+  border-radius: 4px 4px 0 0;
+  padding: 6px 12px;
+  margin: -8px -8px 8px -8px;
+}
+
