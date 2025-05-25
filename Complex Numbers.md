@@ -3,7 +3,7 @@
 - The set of all complex numbers is denoted by $\mathbf{C}$:
  $$
  \mathbf{C} = \{a + bi : a,b \in \mathbf{R}\}
- $$
+$$
 - Addition and multiplication on $\mathbf{C}$ are defined by:
  $$
  \begin{array} \\

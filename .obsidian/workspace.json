@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "def8a4759bdc979f",
+        "id": "4018faa58c12ffa3",
         "type": "tabs",
         "children": [
           {
-            "id": "64434744940c406a",
+            "id": "be65494a61946e74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Complex Numbers.md",
+                "file": "VectorSpaces/Vector Space.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Complex Numbers"
+              "title": "Vector Space"
             }
           }
         ]
@@ -169,9 +169,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "64434744940c406a",
+  "active": "be65494a61946e74",
   "lastOpenFiles": [
     "Complex Numbers.md",
+    "VectorSpaces/Vector Space.md",
     "VectorSpaces",
     "Shading Models/Punctual Lights.md",
     "Algorytmy.md",
@@ -201,7 +202,6 @@
     "Graphics Rendering Pipeline/Geometry Shader.md",
     "Graphics Rendering Pipeline/Graphics Rendering Pipeline.md",
     "Graphics Rendering Pipeline/Pixel Shading.md",
-    "Graphics Rendering Pipeline/Rasterization Stage.md",
     "images/rasterization_pipeline.png",
     "images/screen_mapping.png",
     "images/projection.png",
