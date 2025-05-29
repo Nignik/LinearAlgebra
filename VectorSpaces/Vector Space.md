@@ -34,3 +34,16 @@ v = 0 \\[0.6em]
 \end{array}
 $$
 
+### Suppose $v, w \in V$. Explain why $\exists!x \in V, \quad v + 3x = w$ 
+$$
+\begin{array}{l}
+v + 3x = w \\
+x = \frac{w - v}{3} \\
+x = (w + (-v)) \frac{1}{3} \\[0.6em]
+\text{By definition of addition on a vector space } w + (-v) \in V \\
+\text{Furthermore, by definition of scalar multiplication on vector space } (w + (-v)) \frac{1}{3} \in V \\
+\text{Thus the existance if proven} \\[0.6em]
+\text{Now to prove the uniqueness, assume } y \text{ satisfies } v + 3y = w \\
+y = \frac{v-w}{3} \Longrightarrow y = x
+\end{array}
+$$
